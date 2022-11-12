@@ -41,6 +41,8 @@ const clickHandler = () => {
     color: red;
     border-radius: 10px;
     cursor: pointer;
+
+    background-color: #fff;
 }
 
 .allow{
@@ -52,5 +54,6 @@ const clickHandler = () => {
     color: green;
     border-radius: 10px;
     cursor: pointer;
+    background-color: #fff;
 }
 </style>
