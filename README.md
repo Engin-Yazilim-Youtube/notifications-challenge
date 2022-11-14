@@ -1,7 +1,11 @@
-# Vue 3 + Vite
+# Notification Challenge
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<a href="https://notification-challenge.netlify.app/"> --> Siteye Git <-- </a>
 
-## Recommended IDE Setup
+Proje bizi bu şekilde karşılıyor, show butonuna bastıktan sonra notification card gözüküyor.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+![1](https://user-images.githubusercontent.com/76450122/201723927-4c344d86-9ce7-4311-9fc1-0ad568e6b80a.jpg)
+
+Buttonlara bastığımızda ise geri kapanıyor.
+
+![2](https://user-images.githubusercontent.com/76450122/201724014-41d4cebf-cc75-41c5-aa34-ae45c4f8768b.jpg)
